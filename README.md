@@ -2,10 +2,10 @@
 
 ### [Live Site](https://rkhatripro.com)
 
-![ScreenShot](screenshot1.png)
-![ScreenShot](screenshot2.png)
-![ScreenShot](screenshot3.png)
-![ScreenShot](screenshot4.png)
+![ScreenShot](ScreenShot/screenshot1.png)
+![ScreenShot](ScreenShot/screenshot2.png)
+![ScreenShot](ScreenShot/screenshot3.png)
+![ScreenShot](ScreenShot/screenshot4.png)
 
 This is a code repository for my personal portfolio.
 
